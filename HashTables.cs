@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections;
 
-namespace HashTables // Note: actual namespace depends on the project name.
+namespace HashTables // Here it is changed
 {
     public class HashTables<TKey, TValue> : IEnumerable<KeyValue<TKey, TValue>>
     {
